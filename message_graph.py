@@ -3,7 +3,7 @@
 import sys
 import matplotlib.pyplot as plt
 
-data = raw_input("Enter your Message : ")
+data = raw_input("Enter the Message : ")
 # spliting complete message into list 
 x = data.split()
 
